@@ -1,3 +1,6 @@
-# SoftwareEngineering
+# Homework 1 Team Members 
 
-Foundations of Software engineering
+  ## Keerthi Chikalbettu Pai 
+  ## Pallavi Madasu 
+  ## Sunil Baliganahalli Narayana
+  ## Suraj Sridhar
