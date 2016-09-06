@@ -4,7 +4,14 @@
 ***
 
 2. Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
-***
+
+   According to Brooks, Accidental Difficulties arise from the tools, technologies or processes we use in software development and they are not inherent in the nature of the software itself. These difficulties could be removed by improving or changing the processes or tools. Brooks mentioned that the productivity of a software can be increased with the elimination of accidental difficulties. Brooks uses the example of High Level Languages, before their development, the complexity of machine level languages was an accidental difficulty.
+    
+    **Examples of Accidental Difficulties :**
+
+    1. When the customer requirements were continuously changing in the real world, following waterfall software development model was an accidental difficulty. Whenever there is a change in the customer’s requirements, the software has be redeveloped following the software development life cycle leading to wastage of time, effort and cost. This accidental difficulty could be eliminated by changing the underlying software development model to Agile, where the changes needed in the software can be developed and delivered effectively under the constant supervision of the customer.
+
+    2. The design and architecture of complex systems was cumbersome and not extensible before the creation of object oriented design patterns. Even a minor change in the software needed changes in the design of the entire system when the principles were not applied properly, causing accidental difficulty. When the design principles were strictly followed using object oriented architecture, it has become quite easy to modify. and extend the existing system without causing major design changes, thus less leading to development effort and more stable system.
 
 3. List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.
     
@@ -45,4 +52,13 @@
 ***
 
 6. In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
-***
+
+    1. Abstraction : Using abstraction, software engineers split a bigger problem into a number of smaller sub-problems to such an extent that the smaller problems will be solvable by using abstractions already developed by others. Abstraction plays a very important role in software development as it hides many details from the developer and gives the required output. For example, we can just call a REST Twitter API to get the names of all the followers given the name of the person, the implementation details do not need to be disclosed. Using abstraction, the results can be obtained very quickly as we reuse the objects developed by others.
+
+    2. Conversation : This is the key for any successful software. We need conversation with many people throughout the software development life cycle. For example, we need to talk to the users and domain experts to know their requirements and understand the problem. We need to collaborate and have continuous conversations with other development teams and testers to ensure that the software development is progressing properly.
+
+    3. Specification : Without Specification, we cannot develop any software. Software engineers specify everything starting from requirements, design, programming languages to be used, test cases, software development models, integration tools and so on. Most of the times, specifications are documented and updated periodically to keep track of everything. Usually, there will be some standards for the specifications based on the company developing the software.
+
+    4. Translation : Translation is inherent in the software development life cycle. In every stage, software engineers translate from one abstraction to another, one specification to another and so on. For example, a design can be decomposed and translated into some other design that will be easier to solve.
+
+    5. Iteration : The development in software should always be done incrementally, rather than developing all at once. Step by Step execution of the program leads to a bug free and better code. We know that Agile model is proven effective than Waterfall model for most of the projects, where the requirements keep changing. So, Agile software development model can be followed during the software development to deliver the code in iterations, with continuous collaboration with the customer.
