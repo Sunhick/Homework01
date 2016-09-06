@@ -1,6 +1,14 @@
 ## Homework 1
 
 1. Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
+
+    According to Brooks, Essential Difficulties can be defined as the difficulties which are present inherently and is intrinsically present in the software. He talks about the anomaly that software progress depends on the advancement in the hardware and with the speed with which the hardware is advancing it is difficult for the software to catch up and that becomes an essential difficulty as the problem becomes intrinsic.  He explains that the software creation requires extensive amount of creation of data sets, algorithms for various implementations, getting a proper link to determine the relationship of each data item and there are always a situation that arises the problem of essential difficulties. In short, Brooks explains that essential difficulties can never have a silver bullet  as it is not possible to have a situation.
+
+    **Examples of Essential Difficulties :** 
+
+    As Brooks mentioned, it is very difficult to visualize a software. Even if the solution architects or manager understands the exact requirements of the client, it is very tough to pass on the same information to the entire team. Not all developers envision the final software in the same way. Usually, a software would be developed by a group of developers, each working on their own part of the software and as the project progresses, the vision of the final product becomes harder. The developers will have a great difficulty putting back all the pieces together to get the final software. This is due to the Invisibility of software, unlike a physical product with fixed dimensions.
+
+    Often times, we experience getting new requirements from the client after the initial version of the software is released. Before the first release, the client will describe the requirements theoretically, but after seeing the software, the natural tendency of client is to improvise on the existing application, thus leading to change requests or new requirements. This behavior attributes to Changeability and Complexity, which are mentioned as few of the essential difficulties by Brooks.
 ***
 
 2. Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
