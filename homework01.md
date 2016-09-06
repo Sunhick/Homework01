@@ -49,6 +49,10 @@
 ***
 
 5. In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
+   Chemists are scientists who research and experiment with chemical substances and their properties. The work of a chemist involves building and testing theories, analyzing various substances and their properties, which results in interesting discoveries about the chemical substance, or create new compounds which can be used in a variety of applications. Chemists look at various problems and try to find new techniques to solve the problems by coming up with theories and successfully experimenting on those theories.
+   A chemical engineer picks up these successful theories/discoveries and converts them into useful products for human use which induces practical constraints. The constraint maybe, is the technique applicable on a large scale, will it meet the budget constraints, and so on.
+   In a similar way, computer scientists come up with new ideas/ techniques to search, or a new algorithm in ML, or a new framework for distributed systems. A computer scientist looks at a problem and finds better ways to solve the problem.
+   Software engineering involves using these ideas/ techniques to build a software with a given set of requirements. A software developer works with computer scientists to design a software with certain specifications. The specifications/ constraints can be relaibility, cost, performance and so on. For example, an algorithm may give the best performance when run on 100-servers, but can the same be achieved using 10-servers. 
 ***
 
 6. In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
