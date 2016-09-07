@@ -44,7 +44,9 @@
 
 4. Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
 
-   As per Brooks _"**Silver bullet**"_ means a standard process/procedure (like a _Golden hammer_) to address the missed project schedules, over budgets, buggy software etc. Something that can make the cost of producing software as low as the cost of manufacturing hardware. There is no single development in either software technology or management process that will guarantee at least order of one magnitude improvement in productivity, reliability, complexity. 
+   As per Brooks _"**Silver bullet**"_ means a standard process/procedure (like a _Golden hammer_) to address the missed project schedules, over budgets, buggy software etc. Something that can make the cost of producing software as low as the cost of manufacturing hardware. As Brooks says -
+   
+   > There is no single development, in either technology or in management technique, that by itself promises even one order-of-magnitude improvement in productivity, in reliability, in simplicity.
 
    Although it sounds appealing to look for silver bullet - none exists due to the very nature of software process. Firstly the software development progress is very slow as compared to the computer hardware progress. 
 
@@ -53,7 +55,7 @@
 
    This means that the hardware is progressing by two-folds every two years.
 
-   secondly, the difficulties inherent in the software technology(essence) and those that attend its production ubt that are not inherent(accidents). Essential difficulties include complexity, conformity,  changeability and Invisibility. Accidental difficulties include high-level languages, time-sharing, and unified programming environments.
+   secondly, the difficulties inherent in the software technology(as he calls them "essence") and those that attend its production and that are not inherent("accidents" as he calls it). Essential difficulties include complexity, conformity,  changeability and Invisibility. Accidental difficulties include high-level languages, time-sharing, and unified programming environments.
 ***
 
 5. In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
