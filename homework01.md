@@ -80,3 +80,10 @@
     4. **Translation** : Translation is inherent in the software development life cycle. In every stage, software engineers translate from one abstraction to another, one specification to another and so on. For example, a design can be decomposed and translated into some other design that will be easier to solve.
 
     5. **Iteration** : The development in software should always be done incrementally, rather than developing all at once. Step by Step execution of the program leads to a bug free and better code. We know that Agile model is proven effective than Waterfall model for most of the projects, where the requirements keep changing. So, Agile software development model can be followed during the software development to deliver the code in iterations, with continuous collaboration with the customer.
+
+
+### References
+
+* <a name="ref1">Brooks</a>, Frederick P., Jr. <q>No Silver Bullet: Essence and Accidents of Software Engineering</q>. *Computer*, Vol. 20, No. 4, April 1983.
+
+* <a name="ref3">Anderson</a>, Ken.  Course Overview (Lecture 01).  August 23, 2016.
