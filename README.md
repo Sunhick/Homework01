@@ -1,6 +1,8 @@
-# Homework 1 Team Members 
+# Homework 1 
 
-  Keerthi Chikalbettu Pai 
-   Pallavi Madasu 
-   Sunil Baliganahalli Narayana
-   Suraj Sridhar
+| Team Members | Email Id |
+|--------------|----------|
+| Keerthi Chikalbettu Pai | |
+| Pallavi Madasu | |
+| Sunil Baliganahalli Narayana Murthy | suba5417@colorado.edu |
+| Suraj Sridhar | |
