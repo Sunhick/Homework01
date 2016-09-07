@@ -5,4 +5,4 @@
 | Keerthi Chikalbettu Pai | |
 | Pallavi Madasu | |
 | Sunil Baliganahalli Narayana Murthy | suba5417@colorado.edu |
-| Suraj Sridhar | |
+| Suraj Sridhar |such2660@colorado.edu |
